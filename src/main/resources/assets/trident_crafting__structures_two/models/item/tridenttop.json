@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "trident_crafting__structures_two:items/tridenttop"
-  }
-}
