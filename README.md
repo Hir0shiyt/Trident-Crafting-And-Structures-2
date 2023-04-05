@@ -7,4 +7,4 @@ to get normally, but the mod won't make it easy for you to make the trident, you
 
 Thank you for trying out this mod, we are looking forwards to updating more this mod.
 
-**[PLEASE REPORT EVERY SINGLE ISSUE IN ORDER FOR US TO FIX IT]**
+**[PLEASE REPORT EVERY SINGLE ISSUE FOR US TO FIX IT]**
